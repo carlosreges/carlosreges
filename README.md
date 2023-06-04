@@ -1,7 +1,7 @@
 # Hola, soy **Carlos Reges** y te doy la bienvenida 👋
-<!--# Hi, I'm **Carlos Reges** and wellcome to my profile 👋
+# Hi, I'm **Carlos Reges** and welcome to my profile 👋
 
-**carlosreges/carlosreges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**carlosreges/carlosreges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
 
