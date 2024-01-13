@@ -1,26 +1,49 @@
 # Hola, soy **Carlos Reges** y te doy la bienvenida 👋
-<!--Hi, I'm **Carlos Reges** and welcome to my profile 👋-->
+## Hi, I'm **Carlos Reges** and welcome to my profile 👋
 
-<!--**carlosreges/carlosreges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un apasionado desarrollador web con experiencia en diversas tecnologías. No obstante, soy un autodidacta en el aprendizaje pues vengo del campo de la docencia, en la cual vengo ejerciendo como profesor de apoyo escolar en clases particulares. Esto no me ha detenido en avanzar sobre lo que he proyectado: he realizado muchos cursos y bootcamps ofrecidos por empresas e instituciones, además del aprendizaje
 
-Here are some ideas to get you started:-->
+## Sobre Mí
 
-Soy un desarrollador Web in Trainee, aprendiendo en modalidad autodidacta. Actualmente me estoy formando en [Angular](https://angular.io), [Node.js](https://nodejs.org/), [Bootstrap](https://getbootstrap.com/), [Java](https://www.java.com/es/) y [Typescript](https://www.typescriptlang.org).
+Soy un desarrollador web con sólidos conocimientos en el desarrollo de aplicaciones utilizando Angular, Node.js, y Bootstrap. Mi objetivo es crear experiencias web atractivas y funcionales.
 
-<!--## Últimos articulos publicados
+## Habilidades Técnicas
 
-- [Crear un componente en Svelte y publicarlo en NPM](https://alextomas.com/blog/crear-componente-svelte-publicar-npm-package)
-- [El operador SPREAD en JavaScript](https://alextomas.com/blog/operador-spread-javascript)
-- [Dos formas de unir objetos en JavaScript](https://alextomas.com/blog/dos-formas-unir-objetos-javascript)
-- [Condicionales y operadores lógicos en Svelte](https://alextomas.com/blog/condicionales-operadores-logicos-svelte)
-- [Cómo crear una galería de imágenes en Svelte](https://alextomas.com/blog/crear-galeria-imagenes-con-svelte)-->
+### Lenguajes de Programación
+- Java
+- Javascript
+- TypeScript
+- Python
+
+### Tecnologías Web
+- Angular
+- Node.js
+- Bootstrap
+
+### Bases de Datos
+- MySQL
+- MongoDB (en aprendizaje)
+
+### Otros Conocimientos
+- SAP-ABAP
+- Salesforce Administrator
+
+## Educación y Certificaciones
+
+- Licenciado en Educación Integral [Universidad Nacional Abierta - Venezuela]
+- Desarrollador Java [Alura Latam, Argentina Programa, Todo Code, Codo a Codo]
+- Certificación en Salesforce Administrator, [Deloitte - Salesforce]
+
+## Contacto
+
+¡Si te interesa lo que realizo, no dudes en contactarme! 
 
 ## Puedes encontrarme en:
 
-<!-- Web personal [alextomas.com](https://alextomas.com)-->
 - [LinkedIn](https://www.linkedin.com/in/carlosreges/)
 - [Twitter](https://www.twitter.com/carlosreges)
 - [Instagram](https://www.instagram.com/carlosreges/)
+- [Sitio web personal](https://www.carlosreges.com.ar/)
 
 <!--
 - 🔭 I’m currently working on ...
